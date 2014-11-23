@@ -1,0 +1,10 @@
+{
+    "name": "yaseek/htmlparse",
+    "type": "library",
+    "description": "CLASS HTMLParse for use in grabbing applications",
+    "homepage": "https://github.com/yaseek/media108",
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["lib/"]
+    }
+}

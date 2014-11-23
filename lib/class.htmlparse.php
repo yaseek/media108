@@ -8,8 +8,6 @@ class HTMLParse {
     const CONTENT = 'content';
     const CHARSET = 'charset';
 
-    const ERROR_PAGE = '/_probably_undefined_page';
-
     private $text;
     private $dom;
 
